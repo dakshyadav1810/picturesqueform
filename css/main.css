@@ -205,7 +205,7 @@ iframe {
   background: #fff;
   border-radius: 10px;
   overflow: hidden;
-  padding: 72px 55px 90px 55px;
+  padding: 72px 55px 10px 55px;
 }
 
 /*------------------------------------------------------------------
@@ -227,12 +227,11 @@ iframe {
 }
 .contact2-form-title {
   display: block;
-  font-family: Poppins-Bold;
   font-size: 39px;
   color: #333333;
   line-height: 1.2;
   text-align: center;
-  padding-bottom: 90px;
+  padding-bottom: 40px;
 }
 
 /*------------------------------------------------------------------
