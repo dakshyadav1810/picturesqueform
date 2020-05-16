@@ -1,3 +1,3 @@
-# delineationform
+# picturesqueform
 
-Registration Form for Delineation 2020, hosted on Netlify (:
+Registration Form for Picturesque 2020, hosted on Netlify (:
