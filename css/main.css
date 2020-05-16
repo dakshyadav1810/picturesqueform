@@ -186,10 +186,10 @@ iframe {
 
 .wrap-contact2 {
   width: 790px;
-  background: #ffffffe3;
+  background: #fff;
   border-radius: 10px;
   overflow: hidden;
-  padding: 72px 55px 20px 55px;
+  padding: 72px 55px 10px 55px;
 }
 
 /*------------------------------------------------------------------
@@ -211,17 +211,13 @@ iframe {
 }
 .contact2-form-title {
   display: block;
-  font-size: 40px;
+  font-size: 39px;
   color: #333333;
   line-height: 1.2;
   text-align: center;
   padding-bottom: 40px;
 }
-@media (max-width: 576px) {
-  .contact2-form-title {
-    font-size: 30px;
-  }
-}
+
 /*------------------------------------------------------------------
 [  ]*/
 
@@ -235,7 +231,7 @@ iframe {
 .input2 {
   display: block;
   width: 100%;
-  background-color: #ffffff00;
+
   font-family: Poppins-Regular;
   font-size: 15px;
   color: #555555;
@@ -404,7 +400,7 @@ textarea.input2 + .focus-input2::after {
 
 @media (max-width: 576px) {
   .wrap-contact2 {
-    padding: 40px 15px 40px 15px;
+    padding: 72px 15px 90px 15px;
   }
 }
 
