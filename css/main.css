@@ -181,12 +181,12 @@ iframe {
   justify-content: center;
   align-items: center;
   padding: 15px;
-  background: rgba(45, 122, 238, 0.671);
+  background: rgba(45, 238, 77, 0.671);
 }
 
 .wrap-contact2 {
   width: 790px;
-  background: #fff;
+  background: rgba(255, 255, 255, 0.877);
   border-radius: 10px;
   overflow: hidden;
   padding: 72px 55px 10px 55px;
@@ -231,7 +231,7 @@ iframe {
 .input2 {
   display: block;
   width: 100%;
-
+  background: none;
   font-family: Poppins-Regular;
   font-size: 15px;
   color: #555555;
